@@ -1,0 +1,17 @@
+textarea {
+	width: 100%;
+	height: auto;
+	resize: vertical;
+}
+input[type=text],textarea,select,checkbox,button {
+	padding:10px;
+	border-radius: 10px;
+}
+button:hover {
+	background-color:red ;
+	cursor: pointer;
+}
+input[type=email] {
+	padding:10px;
+	border-radius: 10px;
+}
